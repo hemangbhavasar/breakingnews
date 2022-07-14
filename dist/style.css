@@ -59,7 +59,7 @@ body {
   min-width: 100vw;
   height: calc(100vh - 45px);
   margin-top: 45px;
-  background: url("https://picsum.photos/g/1920/1080/?random");
+  background: url("");
 }
 
 h1 {
