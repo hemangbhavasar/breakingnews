@@ -12,8 +12,8 @@ var newsItem = [
     "story": "Praesent lacinia elit ut neque ornare vestibulum ac et dolor. Cras vel urna sed elit porta fringilla eget id nulla."
   },
   {
-    "date" : "04/19/18",
-    "story": "Praesent bibendum odio id euismod scelerisque. In tempor, ligula nec porta egestas, magna ipsum sodales libero, sit amet ultrices lorem ex vitae justo."
+    "date" : "07/18/2022",
+    "story": "China Developers Rise as Banks Urged to Tackle Mortgage Crisis"
   },
   {
     "date" : "04/12/18",
