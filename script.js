@@ -1,7 +1,7 @@
 var newsItem = [
   {
-    "date" : "05/16/18",
-    "story": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    "date" : "07/16/2022",
+    "story": "Gravitas: Chinese citizens boycott mortgages in 86 cities"
   },
   {
     "date" : "05/13/18",
