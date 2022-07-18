@@ -13,7 +13,7 @@ var newsItem = [
   },
   {
     "date" : "07/18/2022",
-    "story": "China Developers Rise as Banks Urged to Tackle Mortgage Crisis"
+    "story": "Bloomberg: China Developers Rise as Banks Urged to Tackle Mortgage Crisis"
   },
   {
     "date" : "04/12/18",
