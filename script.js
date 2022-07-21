@@ -4,8 +4,8 @@ var newsItem = [
     "story": "Gravitas: Chinese citizens boycott mortgages in 86 cities"
   },
   {
-    "date" : "05/13/18",
-    "story": "Sed quis mauris suscipit, vehicula lacus sit amet, volutpat libero. Curabitur nec scelerisque orci."
+    "date" : "07/15/2022",
+    "story": "Aljazeera: China’s economy slows sharply, fanning global recession fears"
   },
   {
     "date" : "04/28/18",
